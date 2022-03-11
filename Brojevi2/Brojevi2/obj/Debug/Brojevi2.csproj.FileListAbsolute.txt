@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Brojevi2\Brojevi2\bin\Debug\Brojevi2.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Brojevi2\Brojevi2\bin\Debug\Brojevi2.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Brojevi2\Brojevi2\bin\Debug\Brojevi2.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Brojevi2\Brojevi2\obj\Debug\Brojevi2.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Brojevi2\Brojevi2\obj\Debug\Brojevi2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Brojevi2\Brojevi2\obj\Debug\Brojevi2.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Brojevi2\Brojevi2\obj\Debug\Brojevi2.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Brojevi2\Brojevi2\obj\Debug\Brojevi2.pdb

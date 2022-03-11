@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godine\Godine\bin\Debug\Godine.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godine\Godine\bin\Debug\Godine.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godine\Godine\bin\Debug\Godine.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godine\Godine\obj\Debug\Godine.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godine\Godine\obj\Debug\Godine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godine\Godine\obj\Debug\Godine.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godine\Godine\obj\Debug\Godine.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godine\Godine\obj\Debug\Godine.pdb

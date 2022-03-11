@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Konverzija\Konverzija\bin\Debug\Konverzija.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Konverzija\Konverzija\bin\Debug\Konverzija.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Konverzija\Konverzija\bin\Debug\Konverzija.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Konverzija\Konverzija\obj\Debug\Konverzija.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Konverzija\Konverzija\obj\Debug\Konverzija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Konverzija\Konverzija\obj\Debug\Konverzija.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Konverzija\Konverzija\obj\Debug\Konverzija.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Konverzija\Konverzija\obj\Debug\Konverzija.pdb

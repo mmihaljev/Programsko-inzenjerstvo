@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost\Starost\bin\Debug\Starost.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost\Starost\bin\Debug\Starost.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost\Starost\bin\Debug\Starost.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost\Starost\obj\Debug\Starost.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost\Starost\obj\Debug\Starost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost\Starost\obj\Debug\Starost.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost\Starost\obj\Debug\Starost.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost\Starost\obj\Debug\Starost.pdb

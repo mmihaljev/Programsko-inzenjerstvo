@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Svjetsko vrijeme\Svjetsko vrijeme\bin\Debug\Svjetsko vrijeme.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Svjetsko vrijeme\Svjetsko vrijeme\bin\Debug\Svjetsko vrijeme.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Svjetsko vrijeme\Svjetsko vrijeme\bin\Debug\Svjetsko vrijeme.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Svjetsko vrijeme\Svjetsko vrijeme\obj\Debug\Svjetsko vrijeme.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Svjetsko vrijeme\Svjetsko vrijeme\obj\Debug\Svjetsko vrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Svjetsko vrijeme\Svjetsko vrijeme\obj\Debug\Svjetsko vrijeme.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Svjetsko vrijeme\Svjetsko vrijeme\obj\Debug\Svjetsko vrijeme.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Svjetsko vrijeme\Svjetsko vrijeme\obj\Debug\Svjetsko vrijeme.pdb

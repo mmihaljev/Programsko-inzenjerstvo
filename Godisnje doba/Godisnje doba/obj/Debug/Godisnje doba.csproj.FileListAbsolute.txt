@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godisnje doba\Godisnje doba\bin\Debug\Godisnje doba.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godisnje doba\Godisnje doba\bin\Debug\Godisnje doba.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godisnje doba\Godisnje doba\bin\Debug\Godisnje doba.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godisnje doba\Godisnje doba\obj\Debug\Godisnje doba.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godisnje doba\Godisnje doba\obj\Debug\Godisnje doba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godisnje doba\Godisnje doba\obj\Debug\Godisnje doba.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godisnje doba\Godisnje doba\obj\Debug\Godisnje doba.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Godisnje doba\Godisnje doba\obj\Debug\Godisnje doba.pdb

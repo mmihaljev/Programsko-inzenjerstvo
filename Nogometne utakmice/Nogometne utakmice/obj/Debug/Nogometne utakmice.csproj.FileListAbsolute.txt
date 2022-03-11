@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Nogometne utakmice\Nogometne utakmice\bin\Debug\Nogometne utakmice.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Nogometne utakmice\Nogometne utakmice\bin\Debug\Nogometne utakmice.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Nogometne utakmice\Nogometne utakmice\bin\Debug\Nogometne utakmice.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Nogometne utakmice\Nogometne utakmice\obj\Debug\Nogometne utakmice.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Nogometne utakmice\Nogometne utakmice\obj\Debug\Nogometne utakmice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Nogometne utakmice\Nogometne utakmice\obj\Debug\Nogometne utakmice.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Nogometne utakmice\Nogometne utakmice\obj\Debug\Nogometne utakmice.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Nogometne utakmice\Nogometne utakmice\obj\Debug\Nogometne utakmice.pdb

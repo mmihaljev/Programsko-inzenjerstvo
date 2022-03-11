@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost osobe\Starost osobe\bin\Debug\Starost osobe.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost osobe\Starost osobe\bin\Debug\Starost osobe.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost osobe\Starost osobe\bin\Debug\Starost osobe.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost osobe\Starost osobe\obj\Debug\Starost osobe.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost osobe\Starost osobe\obj\Debug\Starost osobe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost osobe\Starost osobe\obj\Debug\Starost osobe.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost osobe\Starost osobe\obj\Debug\Starost osobe.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Starost osobe\Starost osobe\obj\Debug\Starost osobe.pdb

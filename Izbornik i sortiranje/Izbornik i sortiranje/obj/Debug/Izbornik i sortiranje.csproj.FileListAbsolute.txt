@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Izbornik i sortiranje\Izbornik i sortiranje\bin\Debug\Izbornik i sortiranje.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Izbornik i sortiranje\Izbornik i sortiranje\bin\Debug\Izbornik i sortiranje.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Izbornik i sortiranje\Izbornik i sortiranje\bin\Debug\Izbornik i sortiranje.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Izbornik i sortiranje\Izbornik i sortiranje\obj\Debug\Izbornik i sortiranje.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Izbornik i sortiranje\Izbornik i sortiranje\obj\Debug\Izbornik i sortiranje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Izbornik i sortiranje\Izbornik i sortiranje\obj\Debug\Izbornik i sortiranje.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Izbornik i sortiranje\Izbornik i sortiranje\obj\Debug\Izbornik i sortiranje.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Izbornik i sortiranje\Izbornik i sortiranje\obj\Debug\Izbornik i sortiranje.pdb

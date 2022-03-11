@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Fonteska abeceda\Fonteska abeceda\bin\Debug\Fonteska abeceda.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Fonteska abeceda\Fonteska abeceda\bin\Debug\Fonteska abeceda.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Fonteska abeceda\Fonteska abeceda\bin\Debug\Fonteska abeceda.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Fonteska abeceda\Fonteska abeceda\obj\Debug\Fonteska abeceda.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Fonteska abeceda\Fonteska abeceda\obj\Debug\Fonteska abeceda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Fonteska abeceda\Fonteska abeceda\obj\Debug\Fonteska abeceda.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Fonteska abeceda\Fonteska abeceda\obj\Debug\Fonteska abeceda.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Fonteska abeceda\Fonteska abeceda\obj\Debug\Fonteska abeceda.pdb

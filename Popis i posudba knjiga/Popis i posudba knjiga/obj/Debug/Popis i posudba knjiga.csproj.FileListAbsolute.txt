@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Popis i posudba knjiga\Popis i posudba knjiga\bin\Debug\Popis i posudba knjiga.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Popis i posudba knjiga\Popis i posudba knjiga\bin\Debug\Popis i posudba knjiga.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Popis i posudba knjiga\Popis i posudba knjiga\bin\Debug\Popis i posudba knjiga.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Popis i posudba knjiga\Popis i posudba knjiga\obj\Debug\Popis i posudba knjiga.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Popis i posudba knjiga\Popis i posudba knjiga\obj\Debug\Popis i posudba knjiga.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Popis i posudba knjiga\Popis i posudba knjiga\obj\Debug\Popis i posudba knjiga.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Popis i posudba knjiga\Popis i posudba knjiga\obj\Debug\Popis i posudba knjiga.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Popis i posudba knjiga\Popis i posudba knjiga\obj\Debug\Popis i posudba knjiga.pdb

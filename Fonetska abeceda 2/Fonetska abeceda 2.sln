@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fonetska abeceda 2", "Fonetska abeceda 2\Fonetska abeceda 2.csproj", "{070830F2-4139-4168-AA79-87F77B78BCAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070830F2-4139-4168-AA79-87F77B78BCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070830F2-4139-4168-AA79-87F77B78BCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070830F2-4139-4168-AA79-87F77B78BCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070830F2-4139-4168-AA79-87F77B78BCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF0B1C18-05D4-4EA8-987E-545AB41FAC7C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Novcana naknada\Novcana naknada\bin\Debug\Novcana naknada.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Novcana naknada\Novcana naknada\bin\Debug\Novcana naknada.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Novcana naknada\Novcana naknada\bin\Debug\Novcana naknada.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Novcana naknada\Novcana naknada\obj\Debug\Novcana naknada.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Novcana naknada\Novcana naknada\obj\Debug\Novcana naknada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Novcana naknada\Novcana naknada\obj\Debug\Novcana naknada.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Novcana naknada\Novcana naknada\obj\Debug\Novcana naknada.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe1\Novcana naknada\Novcana naknada\obj\Debug\Novcana naknada.pdb
