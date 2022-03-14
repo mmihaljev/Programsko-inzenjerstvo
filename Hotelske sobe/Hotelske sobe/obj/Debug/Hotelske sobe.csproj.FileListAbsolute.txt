@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Hotelske sobe\Hotelske sobe\bin\Debug\Hotelske sobe.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Hotelske sobe\Hotelske sobe\bin\Debug\Hotelske sobe.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Hotelske sobe\Hotelske sobe\bin\Debug\Hotelske sobe.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Hotelske sobe\Hotelske sobe\obj\Debug\Hotelske sobe.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Hotelske sobe\Hotelske sobe\obj\Debug\Hotelske sobe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Hotelske sobe\Hotelske sobe\obj\Debug\Hotelske sobe.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Hotelske sobe\Hotelske sobe\obj\Debug\Hotelske sobe.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Hotelske sobe\Hotelske sobe\obj\Debug\Hotelske sobe.pdb

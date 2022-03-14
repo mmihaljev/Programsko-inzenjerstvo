@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Bankovne transakcije\Bankovne transakcije\bin\Debug\Bankovne transakcije.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Bankovne transakcije\Bankovne transakcije\bin\Debug\Bankovne transakcije.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Bankovne transakcije\Bankovne transakcije\bin\Debug\Bankovne transakcije.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Bankovne transakcije\Bankovne transakcije\obj\Debug\Bankovne transakcije.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Bankovne transakcije\Bankovne transakcije\obj\Debug\Bankovne transakcije.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Bankovne transakcije\Bankovne transakcije\obj\Debug\Bankovne transakcije.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Bankovne transakcije\Bankovne transakcije\obj\Debug\Bankovne transakcije.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Bankovne transakcije\Bankovne transakcije\obj\Debug\Bankovne transakcije.pdb
