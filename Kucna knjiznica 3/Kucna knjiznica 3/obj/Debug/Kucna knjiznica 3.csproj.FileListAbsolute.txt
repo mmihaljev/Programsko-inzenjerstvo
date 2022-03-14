@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Kucna knjiznica 3\Kucna knjiznica 3\bin\Debug\Kucna knjiznica 3.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Kucna knjiznica 3\Kucna knjiznica 3\bin\Debug\Kucna knjiznica 3.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Kucna knjiznica 3\Kucna knjiznica 3\bin\Debug\Kucna knjiznica 3.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Kucna knjiznica 3\Kucna knjiznica 3\obj\Debug\Kucna knjiznica 3.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Kucna knjiznica 3\Kucna knjiznica 3\obj\Debug\Kucna knjiznica 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Kucna knjiznica 3\Kucna knjiznica 3\obj\Debug\Kucna knjiznica 3.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Kucna knjiznica 3\Kucna knjiznica 3\obj\Debug\Kucna knjiznica 3.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Kucna knjiznica 3\Kucna knjiznica 3\obj\Debug\Kucna knjiznica 3.pdb

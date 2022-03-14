@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Mjenjacnica\Mjenjacnica\bin\Debug\Mjenjacnica.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Mjenjacnica\Mjenjacnica\bin\Debug\Mjenjacnica.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Mjenjacnica\Mjenjacnica\bin\Debug\Mjenjacnica.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.pdb
