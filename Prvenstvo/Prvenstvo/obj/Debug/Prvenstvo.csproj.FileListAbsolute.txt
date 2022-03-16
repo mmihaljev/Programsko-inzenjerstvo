@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\Prvenstvo\Prvenstvo\bin\Debug\Prvenstvo.exe.config
+C:\Users\PC\source\repos\Prvenstvo\Prvenstvo\bin\Debug\Prvenstvo.exe
+C:\Users\PC\source\repos\Prvenstvo\Prvenstvo\bin\Debug\Prvenstvo.pdb
+C:\Users\PC\source\repos\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.exe
+C:\Users\PC\source\repos\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.pdb
