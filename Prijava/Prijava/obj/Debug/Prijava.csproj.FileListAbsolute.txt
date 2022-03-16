@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\Prijava\Prijava\obj\Debug\Prijava.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Prijava\Prijava\bin\Debug\Prijava.exe.config
+C:\Users\PC\source\repos\Prijava\Prijava\bin\Debug\Prijava.exe
+C:\Users\PC\source\repos\Prijava\Prijava\bin\Debug\Prijava.pdb
+C:\Users\PC\source\repos\Prijava\Prijava\obj\Debug\Prijava.exe
+C:\Users\PC\source\repos\Prijava\Prijava\obj\Debug\Prijava.pdb
