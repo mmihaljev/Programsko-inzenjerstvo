@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\Temperature\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\PC\source\repos\Temperature\Temperature\bin\Debug\Temperature.exe
+C:\Users\PC\source\repos\Temperature\Temperature\bin\Debug\Temperature.pdb
+C:\Users\PC\source\repos\Temperature\Temperature\obj\Debug\Temperature.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Temperature\Temperature\obj\Debug\Temperature.exe
+C:\Users\PC\source\repos\Temperature\Temperature\obj\Debug\Temperature.pdb
