@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\Zalihe\Zalihe\bin\Debug\Zalihe.exe.config
+C:\Users\PC\source\repos\Zalihe\Zalihe\bin\Debug\Zalihe.exe
+C:\Users\PC\source\repos\Zalihe\Zalihe\bin\Debug\Zalihe.pdb
+C:\Users\PC\source\repos\Zalihe\Zalihe\obj\Debug\Zalihe.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Zalihe\Zalihe\obj\Debug\Zalihe.exe
+C:\Users\PC\source\repos\Zalihe\Zalihe\obj\Debug\Zalihe.pdb
