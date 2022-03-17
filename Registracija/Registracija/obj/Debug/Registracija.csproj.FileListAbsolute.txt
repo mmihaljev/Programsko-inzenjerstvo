@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\Registracija\Registracija\obj\Debug\Registracija.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Registracija\Registracija\bin\Debug\Registracija.exe.config
+C:\Users\PC\source\repos\Registracija\Registracija\bin\Debug\Registracija.exe
+C:\Users\PC\source\repos\Registracija\Registracija\bin\Debug\Registracija.pdb
+C:\Users\PC\source\repos\Registracija\Registracija\obj\Debug\Registracija.exe
+C:\Users\PC\source\repos\Registracija\Registracija\obj\Debug\Registracija.pdb
