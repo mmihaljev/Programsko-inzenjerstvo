@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\Senzori\Senzori\bin\Debug\Senzori.exe.config
+C:\Users\PC\source\repos\Senzori\Senzori\bin\Debug\Senzori.exe
+C:\Users\PC\source\repos\Senzori\Senzori\bin\Debug\Senzori.pdb
+C:\Users\PC\source\repos\Senzori\Senzori\obj\Debug\Senzori.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Senzori\Senzori\obj\Debug\Senzori.exe
+C:\Users\PC\source\repos\Senzori\Senzori\obj\Debug\Senzori.pdb
