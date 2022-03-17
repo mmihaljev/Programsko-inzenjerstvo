@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Filmovi\Filmovi\bin\Debug\Filmovi.exe.config
+C:\Users\PC\source\repos\Filmovi\Filmovi\bin\Debug\Filmovi.exe
+C:\Users\PC\source\repos\Filmovi\Filmovi\bin\Debug\Filmovi.pdb
+C:\Users\PC\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.exe
+C:\Users\PC\source\repos\Filmovi\Filmovi\obj\Debug\Filmovi.pdb
