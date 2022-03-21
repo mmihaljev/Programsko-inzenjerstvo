@@ -1,0 +1,14 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\bin\Debug\Administritanje korisnika.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\bin\Debug\Administritanje korisnika.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\bin\Debug\Administritanje korisnika.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\bin\Debug\AutentifikacijaLib.dll
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\obj\Debug\Administritanje korisnika.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\obj\Debug\Administritanje korisnika.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\obj\Debug\Administritanje_korisnika.LogIn.resources
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\obj\Debug\Administritanje_korisnika.Properties.Resources.resources
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\obj\Debug\Administritanje korisnika.csproj.GenerateResource.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\obj\Debug\Administritanje korisnika.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\obj\Debug\Administritanje korisnika.csproj.CopyComplete
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\obj\Debug\Administritanje korisnika.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\obj\Debug\Administritanje korisnika.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Administritanje korisnika\Administritanje korisnika\obj\Debug\Administritanje_korisnika.AdminStartForm.resources
