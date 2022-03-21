@@ -1,0 +1,8 @@
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Autobusna karta\Autobusna karta\bin\Debug\Autobusna karta.exe.config
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Autobusna karta\Autobusna karta\bin\Debug\Autobusna karta.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Autobusna karta\Autobusna karta\bin\Debug\Autobusna karta.pdb
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Autobusna karta\Autobusna karta\obj\Debug\Autobusna karta.csproj.AssemblyReference.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Autobusna karta\Autobusna karta\obj\Debug\Autobusna karta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Autobusna karta\Autobusna karta\obj\Debug\Autobusna karta.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Autobusna karta\Autobusna karta\obj\Debug\Autobusna karta.exe
+C:\Users\Matej\Desktop\Faks\Programsko Injženjerstvo\Vjezbe2\Autobusna karta\Autobusna karta\obj\Debug\Autobusna karta.pdb
