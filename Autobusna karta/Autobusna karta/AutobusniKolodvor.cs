@@ -8,18 +8,18 @@ namespace Autobusna_karta
 {
     internal class AutobusniKolodvor
     {
-        private List<Linija> _linije = new List<Linija>();
+        private List<Linija> Linije = new List<Linija>();
 
         public AutobusniKolodvor()
         {
-            _linije.Add(new Linija("Varazdin", "Zagreb", 80));
-            _linije.Add(new Linija("Varazdin", "Cakovec", 20));
-            _linije.Add(new Linija("Varazdin", "Slavonski Brod", 240));
-            _linije.Add(new Linija("Varazdin", "Krapina", 40));
-            _linije.Add(new Linija("Varazdin", "Novi Marof", 22));
-            _linije.Add(new Linija("Varazdin", "Koprivnica", 45));
-            _linije.Add(new Linija("Varazdin", "Virovitica", 100));
-            _linije.Add(new Linija("Varazdin", "Osijek", 220));
+            Linije.Add(new Linija("Varazdin", "Zagreb", 80));
+            Linije.Add(new Linija("Varazdin", "Cakovec", 20));
+            Linije.Add(new Linija("Varazdin", "Slavonski Brod", 240));
+            Linije.Add(new Linija("Varazdin", "Krapina", 40));
+            Linije.Add(new Linija("Varazdin", "Novi Marof", 22));
+            Linije.Add(new Linija("Varazdin", "Koprivnica", 45));
+            Linije.Add(new Linija("Varazdin", "Virovitica", 100));
+            Linije.Add(new Linija("Varazdin", "Osijek", 220));
         }
 
         private double IzracunajCijenu(int udaljenost, string tipKarte)
@@ -47,7 +47,7 @@ namespace Autobusna_karta
         {
             double cijena = 0;
 
-            foreach (Linija linija in _linije)
+            foreach (Linija linija in Linije)
             {
                 if(polaziste == linija._Polaziste && odrediste == linija._Odrediste)
                 {
